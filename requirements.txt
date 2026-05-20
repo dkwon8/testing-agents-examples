@@ -1,0 +1,7 @@
+# Core dependencies
+mlflow>=2.15.0
+openai>=1.0.0
+
+# Optional but helpful
+python-dotenv>=1.0.0
+pandas>=2.0.0
